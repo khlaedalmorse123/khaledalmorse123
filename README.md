@@ -19,7 +19,7 @@
 ---
 
 ### 📫 Contact
-- 🖥️ LinkedIn: [Click Here](http://www.linkedin.com/in/khaled-manea-53863623b/recent-activity/all/)  
+- 🖥️ LinkedIn: [Click Here]([http://www.linkedin.com/in/khaled-manea-53863623b/recent-activity/all/](https://www.linkedin.com/in/khaled-elmorse-manea-53863623b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - ✉️ Email: khaledmanea0077@gmail.com  
 - 🤝 Open for backend collaborations  
 
