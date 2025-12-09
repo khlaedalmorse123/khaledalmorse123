@@ -9,9 +9,9 @@
 - 🚀 **Open Source Trainee at ITI (9-Month Program)**  
 - 🛠️ Passionate about building real-world systems in **healthcare, education, and management**  
 - 📌 Projects:  
-  - Hotel Booking API  
+  - Ecommerce API
   - ASD SmartCare Autism Platform  
-  - Doctor Booking System  
+  - Hotel Booking API  
 
 ---
 
@@ -29,7 +29,6 @@
 <a href="https://www.cplusplus.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
 </a>
-
 <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="40" alt="Express.js"/></a>
 <a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" alt="NodeJS"/></a>
 <a href="https://socket.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" width="40" alt="Socket.io"/></a>
