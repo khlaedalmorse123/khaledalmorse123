@@ -17,7 +17,7 @@
 
 ### 📫 Contact
 - 🖥️ LinkedIn: [Khaled Almorse](https://www.linkedin.com/in/khaled-elmorse-manea-53863623b)  
-- ✉️ Email: khaledmanea0077@gmail.com  
+- ✉️ Email: khaledmanea72@gmail.com  
 - 🤝 Open for backend collaborations  
 
 ---
