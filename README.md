@@ -1,6 +1,5 @@
 
 
----
 
 <h1 align="center">Hi 👋, I'm Khaled Almorse</h1>
 <h3 align="center">🚀 Backend Developer | Node.js | Express | RESTful APIs</h3>
